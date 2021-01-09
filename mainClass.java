@@ -1091,14 +1091,6 @@ class Account {
 		interestRate = 5.44;
 		history = new Passbook();
 	}
-
-	public void displayAccountDetails() {
-
-	}
-
-	public void displayHistory() {
-
-	}
 }
 
 class Bank {
